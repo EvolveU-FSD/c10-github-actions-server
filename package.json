@@ -1,0 +1,23 @@
+{
+  "name": "c10-github-actions-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvolveU-FSD/c10-github-actions-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EvolveU-FSD/c10-github-actions-server/issues"
+  },
+  "homepage": "https://github.com/EvolveU-FSD/c10-github-actions-server#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
